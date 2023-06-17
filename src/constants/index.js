@@ -48,7 +48,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Il denaro è solo uno strumento. Ti porterà dove vuoi, ma non ti sostituirà come autista",
-    name: "Herman Jensen",
+    name: "Gianna Astori",
     title: "Fondatore & Leader",
     img: people01,
   },
@@ -56,7 +56,7 @@ export const feedback = [
     id: "feedback-2",
     content:
       "I soldi ti semplificano la vita. Se sei fortunato ad averli hai fatto centro",
-    name: "Steve Mark",
+    name: "Giorgio Loriente",
     title: "Fondatore & Leader",
     img: people02,
   },
@@ -64,7 +64,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "Di solito sono le persone nel mondo degli affari finanziari, della finanza e del commercio internazionale ad essere veramente ricche",
-    name: "Kenn Gallagher",
+    name: "Giorgio Loriente",
     title: "Fondatore & Leader",
     img: people03,
   },
